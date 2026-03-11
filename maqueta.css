@@ -1,0 +1,7 @@
+/*CODIGO CREADO POR MAVIO BORGES SANTOS 2DAW Y 25/26*/
+div[class*="bg-"]{
+    min-height:90px;
+}
+aside{
+    min-height:300px;
+}
